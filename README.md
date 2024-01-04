@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joy . 
 - python 
-- HTML . 
+- HTML .
 - go 
 - 
 
