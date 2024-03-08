@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joy ......
-- python 
+- python ......
 - HTML 
 - go 
 - 
